@@ -55,11 +55,11 @@ To include an image, use this syntax: `![Alt Text](/images/filename.jpg)`
 - **Path**: Always start with `/images/` if that is where you saved your file.
 
 Example using an image already in your repository:
-![My Profile Photo](/images/profile.png)
+![My Profile Photo]({{ site.url }}/images/profile.png)
 
 > [!TIP]
 > If you want to center an image or resize it, you can use standard HTML inside your Markdown:
-> `<img src="/images/profile.png" width="200" style="display: block; margin: 0 auto;">`
+> `<img src="{{ site.url }}/images/profile.png" width="200" style="display: block; margin: 0 auto;">`
 
 ## How it works
 When you save this file in the `_posts` folder, the Jekyll engine (running in your Docker container) sees the new file, converts the Markdown syntax into HTML tags, and inserts it into your website layout. 

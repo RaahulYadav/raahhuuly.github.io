@@ -1,0 +1,136 @@
+# - title: "PhET Interactive Simulations"
+#   url: "https://phet.colorado.edu/"
+#   description: "Beautiful, interactive research-based simulations for physics, chemistry, and math developed by CU Boulder."
+#   category: "Physics"
+#   tags: ["Simulation", "Education"]
+
+# - title: "arXiv: Condensed Matter - Stat-Mech"
+#   url: "https://arxiv.org/list/cond-mat.stat-mech/recent"
+#   description: "The primary pre-print repository for recent papers, articles, and research advances in statistical mechanics and complex systems."
+#   category: "Physics"
+#   tags: ["Research", "Preprints"]
+
+# - title: "Leonard Susskind: Statistical Mechanics"
+#   url: "https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring"
+#   description: "A masterclass series of video lectures on the foundations of statistical mechanics and thermodynamics by Stanford University."
+#   category: "Physics"
+#   tags: ["Lectures", "Video"]
+
+# - title: "Wolfram|Alpha"
+#   url: "https://www.wolframalpha.com/"
+#   description: "An indispensable computational knowledge engine for evaluating mathematical integrals, differential equations, and scientific constants."
+#   category: "Mathematics"
+#   tags: ["Tools", "Computation"]
+
+# - title: "MIT Stochastic Processes Course"
+#   url: "https://ocw.mit.edu/courses/18-445-introduction-to-stochastic-processes-spring-2015/"
+#   description: "Comprehensive lecture notes, problem sets, and syllabus for advanced stochastic processes, Markov chains, and random walks."
+#   category: "Mathematics"
+#   tags: ["Probability", "Stochastic"]
+
+# - title: "Overleaf: Online LaTeX Editor"
+#   url: "https://www.overleaf.com/"
+#   description: "The gold standard collaborative cloud-based LaTeX editor for writing scientific papers, thesis drafts, and academic presentations."
+#   category: "Tools"
+#   tags: ["Writing", "LaTeX"]
+
+# - title: "Awesome Scientific Computing"
+#   url: "https://github.com/erdc/awesome-scientific-computing"
+#   description: "A curated list of high-quality software, libraries, and resources dedicated to scientific computing and numerical analysis."
+#   category: "Tools"
+#   tags: ["GitHub", "Coding"]
+
+
+- title: "inordinatum resource"
+  url: "https://inordinatum.wordpress.com/"
+  description: "This person write some really nice blogs about Physics and Mathematics of Disordered Systems"
+  category: "Physics"
+  tags: ["Probability", "Stochastic"]
+
+
+- title: "master equations and theory of stochastic path integrals "
+  url: "https://arxiv.org/abs/1609.02849"
+  description: "A nice review articles about titled by prof. Erwin Frey."
+  category: "Physics"
+  tags: ["Probability", "Stochastic"]
+
+- title: "David Tong Lecture Notes on Physics"
+  url: "https://davidtong.org/teaching/"
+  description: "I have personally benifitted from the course on Statistical Mechanics and Statistical Field Theory chapters on Phase Transistions"
+  category: "Physics"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Erwin Frey's Youtube Channel"
+  url: "https://www.youtube.com/@PhysicsOfLifeLMU"
+  description: "Recorded Video Courses on various advance topics"
+  category: "Physics"
+  tags: ["Probability", "Statistical Physics"]
+
+
+- title: "Stochatic Calculus Nice Blogs and Animations"
+  url: "https://jiha-kim.github.io/"
+  description: "This guy have written nice blogs"
+  category: "Stochastic Calculus"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Stochatic Calculus Nice Blogs and Animations"
+  url: "https://jiha-kim.github.io/"
+  description: "This guy have written nice blogs"
+  category: "Stochastic Calculus"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Loads of nice in browser simulations"
+  url: "https://vilas.us/simulations/"
+  description: "definately check one on Ising model"
+  category: "Simulations"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Computational Physics Notes"
+  url: "https://www.dmsussman.org/teaching/phys436/"
+  description: "Haven't Read, Just Putting for myself in future if needed"
+  category: "Simulations"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Some guy to make myself feel jealous"
+  url: "https://ohaithe.re/"
+  description: "Alex Meiburg, P vs NP problem"
+  category: "Simulations"
+  tags: ["Probability", "Computer Science"]
+
+- title: "Quanta Magzine"
+  url: "https://www.quantamagazine.org/"
+  description: "Qualia - Subjective Reality"
+  category: "Articles"
+  tags: ["Popular Science"]
+
+- title: "THE UNREASONABLE EFFECTIVENSS OF MATHEMATICS IN THE NATURAL SCIENCES"
+  url: "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf"
+  description: "Eugane Wigner"
+  category: "Articles"
+  tags: ["Popular Science"]
+
+
+- title: "Check-Out V. Balki's different courses on Youtube"
+  url: "https://www.youtube.com/playlist?list=PLbMVogVj5nJQo8D9D-D6lMqh4FJbPeE_f"
+  description: "V Balki"
+  category: "Stochastic Calculus"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Some More Applied Probability Theory"
+  url: "https://appliedprobability.blog/"
+  description: "Some Guy"
+  category: "Applied Probability"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Some More Simulations"
+  url: "https://chi-feng.github.io/mcmc-demo/"
+  description: "Chi Feng - Hamiltonian Simulations"
+  category: "Simulations"
+  tags: ["Probability", "Statistical Physics"]
+
+- title: "Some More Simulations"
+  url: "https://arogozhnikov.github.io/about/"
+  description: "Arogozhnikov - Hamiltonian Simulations"
+  category: "Simulations"
+  tags: ["Probability", "Statistical Physics"]
+ 

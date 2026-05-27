@@ -133,4 +133,10 @@
   description: "Arogozhnikov - Hamiltonian Simulations"
   category: "Simulations"
   tags: ["Probability", "Statistical Physics"]
+
+- title: "Path Integral Description of Stochastic Mechanics"
+  url: "https://arxiv.org/pdf/2605.12993"
+  description: "Some Advance Material about the Stochastic Mechanics and bit of perspective of Quantum"
+  category: "Stochastic Calculus"
+  tags: ["Probability", "Statistical Physics"]
  

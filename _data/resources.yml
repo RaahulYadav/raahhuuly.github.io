@@ -73,6 +73,13 @@
   tags: ["Probability", "Statistical Physics"]
 
 
+- title: "Stochastic Calculus: An Introduction with Applications"
+  url: "https://www.math.uchicago.edu/~lawler/finbook.pdf"
+  description: "Good notes on Stochastic Calculus from informal mathematical treatment - by Prof Gregory F. Lawler"
+  category: "Physics"
+  tags: ["Probability", "Statistical Physics"]
+
+
 - title: "Stochatic Calculus Nice Blogs and Animations"
   url: "https://jiha-kim.github.io/"
   description: "This guy have written nice blogs"

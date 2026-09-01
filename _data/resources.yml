@@ -152,4 +152,10 @@
   description: "Some Advance Material about the Stochastic Mechanics and bit of perspective of Quantum"
   category: "Stochastic Calculus"
   tags: ["Probability", "Statistical Physics"]
- 
+
+ - title: "Why does nature favour the Laplacian?"
+  url: "https://physics.stackexchange.com/questions/476175/why-does-nature-favour-the-laplacian"
+  description: "A nice read about rotational invariance in nature"
+  category: "Food-for-thought"
+  tags: ["Mathematics", "Physics"]
+
